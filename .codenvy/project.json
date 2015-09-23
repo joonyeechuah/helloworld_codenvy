@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{},"default":"maven"},"runners":{"configs":{"recommend":{"ram":256,"variables":{},"options":{}}},"default":"system:/java/mobile/android442"},"description":"A simple Android application natively launched in an emulator.","type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"]}}
