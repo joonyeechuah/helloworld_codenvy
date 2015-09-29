@@ -4,6 +4,8 @@
     <string name="app_name">Codenvy Example</string>
     <string name="hello">Hello android-application!</string>
     <string name="action_settings">Settings</string>
+  
+    <!-- change contents of string to change text, prefix quotes and apostrophes with backslash \ -->
     <string name="hello_world">Hello world!</string>
 
 </resources>
