@@ -8,5 +8,5 @@
   
     <!-- change contents of string to change text, prefix quotes and apostrophes with backslash \ -->
     <string name="hello_world">Hello world!</string>
-
+    <string name="second_line">My name is Bob Loblaw</string>
 </resources>

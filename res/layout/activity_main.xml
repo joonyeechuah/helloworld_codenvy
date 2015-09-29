@@ -9,14 +9,14 @@
               >
 
     <TextView
-        android:textColor="#09C"
+        android:style="@style/Header"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/hello_world"
         android:gravity="center"/>
   
   <TextView
-        android:textColor="#09C"
+        android:style="@style/Header"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/second_line"
