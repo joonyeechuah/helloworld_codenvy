@@ -11,6 +11,9 @@
             backward-compatibility can go here.
         -->
     </style>
+  
+    <style name="Header" parent="@android:style/TextAppearance.Medium">
+    </style>
 
     <!-- Application theme. -->
     <style name="AppTheme" parent="AppBaseTheme">
