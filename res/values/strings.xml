@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- Title of the app -->
     <string name="app_name">Codenvy Example</string>
     <string name="hello">Hello android-application!</string>
     <string name="action_settings">Settings</string>
